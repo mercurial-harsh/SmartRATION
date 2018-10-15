@@ -1,1 +1,1 @@
-#building version 1.2 from scratch for devcon
+#building version 1.2 from scratch devcon
